@@ -1,20 +1,25 @@
-# Hi, I'm Hilbert
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/paper-edge-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/paper-edge-light.svg">
+  <img alt="" src="./assets/paper-edge-light.svg">
+</picture>
 
-I work on agent tooling with explicit control, clean integration boundaries, and real-world terminal workflows.
+**[SeekTTY](https://github.com/Hilbert-beinghappy/seektty)** — Keyboard-first terminal interface for DeepSeek Harness.
 
-中国地质大学（武汉）研究生，主要关注 AI Agent、开发者工具与科研软件。
+**[Clarify](https://github.com/Hilbert-beinghappy/dsh-plugin-clarify)** — Review-first clarification, off transcript and never auto-sent.
 
-## DeepSeek Harness
+**[Auxiliary Runtime](https://github.com/Hilbert-beinghappy/dsh-plugin-auxiliary-runtime)** — Cancellable auxiliary inference with isolated usage accounting.
 
-- [SeekTTY](https://github.com/Hilbert-beinghappy/seektty) — a pluggable, keyboard-first terminal interface for DeepSeek Harness.
-- [Clarify](https://github.com/Hilbert-beinghappy/dsh-plugin-clarify) — review-first clarification without transcript pollution or automatic sending.
-- [Auxiliary Runtime](https://github.com/Hilbert-beinghappy/dsh-plugin-auxiliary-runtime) — cancellable auxiliary inference with separate usage accounting.
+### Research
 
-## Research and open source
+**[research-agent](https://github.com/Hilbert-beinghappy/research-agent)** — Local-first research agent built on Pi.
 
-- [research-agent](https://github.com/Hilbert-beinghappy/research-agent) — a local-first research agent built on Pi.
-- [lean-descriptive-set-theory](https://github.com/Hilbert-beinghappy/lean-descriptive-set-theory) — Lean 4 and mathlib formalization of descriptive set theory.
-- [note-in-fzu](https://github.com/Hilbert-beinghappy/note-in-fzu) — undergraduate course notes from Fuzhou University.
-- [Yuki-QQbot](https://github.com/YuanYeYouTao/Yuki-QQbot) — upstream contributor; [merged PR #4](https://github.com/YuanYeYouTao/Yuki-QQbot/pull/4).
+**[lean-descriptive-set-theory](https://github.com/Hilbert-beinghappy/lean-descriptive-set-theory)** — Lean 4 and mathlib formalization of descriptive set theory.
 
-GitHub issues and pull requests are the best way to reach me.
+### Notes & upstream
+
+**[note-in-fzu](https://github.com/Hilbert-beinghappy/note-in-fzu)** — Undergraduate course notes from Fuzhou University.
+
+**[Yuki-QQbot](https://github.com/YuanYeYouTao/Yuki-QQbot)** — Upstream contributor; [merged PR #4](https://github.com/YuanYeYouTao/Yuki-QQbot/pull/4).
+
+<sub>GitHub issues and pull requests are the best way to reach me.</sub>
