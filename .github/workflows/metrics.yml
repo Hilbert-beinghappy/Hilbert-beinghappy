@@ -55,7 +55,7 @@ jobs:
 
           config_timezone: Asia/Shanghai
           config_animations: no
-          use_prebuilt_image: yes
+          use_prebuilt_image: no
           verify: yes
           plugins_errors_fatal: yes
           retries: 2
