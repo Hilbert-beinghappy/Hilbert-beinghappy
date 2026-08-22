@@ -20,6 +20,6 @@
 
 **[note-in-fzu](https://github.com/Hilbert-beinghappy/note-in-fzu)** — Undergraduate course notes from Fuzhou University.
 
-**[Yuki-QQbot](https://github.com/YuanYeYouTao/Yuki-QQbot)** — Upstream contributor; [merged PR #4](https://github.com/YuanYeYouTao/Yuki-QQbot/pull/4).
+**[Yuki-QQbot](https://github.com/YuanYeYouTao/Yuki-QQbot)** — Upstream contributor.
 
 <sub>GitHub issues and pull requests are the best way to reach me.</sub>
