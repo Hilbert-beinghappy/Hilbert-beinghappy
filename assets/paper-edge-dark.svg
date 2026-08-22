@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40">
+  <g fill="none" stroke="#8c959f" stroke-linecap="round" stroke-width="1.5" opacity="0.74">
+    <path d="M1 20h875" vector-effect="non-scaling-stroke"/>
+    <path d="M908 20h291" vector-effect="non-scaling-stroke"/>
+    <path d="M883 11v18" vector-effect="non-scaling-stroke"/>
+    <path d="M892 15v10" vector-effect="non-scaling-stroke"/>
+    <path d="M901 11v18" vector-effect="non-scaling-stroke"/>
+  </g>
+</svg>
