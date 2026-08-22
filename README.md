@@ -2,7 +2,7 @@
 
 I work on agent tooling with explicit control, clean integration boundaries, and real-world terminal workflows.
 
-中国地质大学（武汉）研究生，主要关注本地优先的 AI Agent、开发者工具与科研软件。
+中国地质大学（武汉）研究生，主要关注 AI Agent、开发者工具与科研软件。
 
 ## DeepSeek Harness
 
