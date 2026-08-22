@@ -41,7 +41,7 @@ jobs:
 
           user: Hilbert-beinghappy
           template: terminal
-          base: header, activity, community, metadata
+          base: header, activity, community
           repositories_forks: no
 
           plugin_isocalendar: yes
@@ -58,9 +58,6 @@ jobs:
           use_prebuilt_image: yes
           verify: yes
           plugins_errors_fatal: yes
-          extras_css: |
-            footer { display: none !important; }
-
           retries: 2
           retries_delay: 60
           retries_output_action: 3
