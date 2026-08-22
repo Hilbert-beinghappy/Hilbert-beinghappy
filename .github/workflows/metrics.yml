@@ -29,6 +29,14 @@ jobs:
     timeout-minutes: 45
 
     steps:
+      - name: Load immutable official Metrics image
+        env:
+          METRICS_IMAGE: ghcr.io/lowlighter/metrics@sha256:257392f90340f916cb8b815026f259399f6b246d3eb7de38b58bfe7a07bd5b65
+        run: |
+          docker pull "$METRICS_IMAGE"
+          docker tag "$METRICS_IMAGE" metrics:3.34.0
+          docker image inspect metrics:3.34.0 >/dev/null
+
       - name: Generate terminal metrics with the official image
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
